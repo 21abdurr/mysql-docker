@@ -1,4 +1,4 @@
-# mysql-docker
+## Instruction
 
 
 ## IF YOU USE WINDOWS OR MAC, RUN DOCKER DESKTOP FIRST
